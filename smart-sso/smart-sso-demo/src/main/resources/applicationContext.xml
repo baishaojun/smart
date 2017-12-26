@@ -18,9 +18,9 @@
 		<property name="fileEncoding" value="UTF-8" />
 		<property name="locations">
 			<list>
-				<!--服务参数配置(Zookeeper、MQ、Redis相关)
+				<!--服务参数配置(Zookeeper、MQ、Redis相关) -->
 				<value>classpath:service.properties</value>
-				 -->
+
 				<!--单点登录服务端参数配置 -->
 				<value>classpath:sso.properties</value>
 				<!--当前应用参数配置 -->
